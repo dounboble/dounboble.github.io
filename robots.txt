@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dounboble.github.io/dounboble.dounboble
+Sitemap: https://dounboble.github.io/app/dounboble.dounboble
+Sitemap: https://dounboble.github.io/assets/dounboble.dounboble
+Sitemap: https://dounboble.github.io/css/dounboble.dounboble
+Sitemap: https://dounboble.github.io/includes/dounboble.dounboble
+Sitemap: https://dounboble.github.io/item/dounboble.dounboble
+Sitemap: https://dounboble.github.io/src/dounboble.dounboble
